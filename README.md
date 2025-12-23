@@ -12,7 +12,6 @@ As required, I did not use built-in functions for calculating probabilities or a
 ## The Tasks
 
 ### Question 1: Children Sample Space
-* **File:** `[YourID]_1.py`
 * [cite_start]**Goal:** Receive the number of children in a family, generate all possible gender combinations (Boy/Girl), and calculate the probability of having **exactly two girls** [cite: 275-276].
 * **How it works (My Implementation):**
     * I calculate the total number of options ($2^n$).
@@ -22,7 +21,6 @@ As required, I did not use built-in functions for calculating probabilities or a
 * [cite_start]**Input Handling:** The code includes `try-except` blocks to handle non-integer inputs or negative numbers.
 
 ### Question 2: Iris Dataset Statistics
-* **File:** `[YourID]_2.py`
 * [cite_start]**Goal:** Analyze the `iris.csv` file containing flower dimensions (Sepal Length, Sepal Width, Petal Length, Petal Width)[cite: 280].
 * **Calculations:**
     1.  [cite_start]**Mean (Average):** I sum up all values for each column and divide by the number of rows[cite: 282].
