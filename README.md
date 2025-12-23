@@ -1,9 +1,5 @@
 # Assignment 2 - Probability & Statistics
 
-**Student:** [Your Name]
-**ID:** [Your ID]
-**Course:** Introduction to Data Science, Ariel University (2026)
-
 ## About the Project
 This is my solution for Assignment 2.
 The assignment focuses on two main topics:
